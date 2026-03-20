@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(D:/DevEcoStudio/FamilyMemo/.gitignore:*)"
+      "Bash(D:/DevEcoStudio/FamilyMemo/.gitignore:*)",
+      "Bash(python D:/DevEcoStudio/FamilyMemo/write_docs.py)",
+      "Bash(python3 -c \"print\\(''ok''\\)\")",
+      "Bash(python:*)",
+      "Bash(powershell -Command \"[IO.File]::WriteAllText\\('D:/DevEcoStudio/FamilyMemo/test.txt', 'hello', [Text.Encoding]::UTF8\\); Write-Host 'ok'\")"
     ]
   }
 }
