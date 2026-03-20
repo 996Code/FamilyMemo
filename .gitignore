@@ -1,0 +1,26 @@
+# HarmonyOS / DevEco Studio
+harmony/.preview/
+harmony/entry/.preview/
+harmony/**/.cxx/
+harmony/**/build/
+harmony/**/*.hap
+harmony/**/*.app
+harmony/.hvigor/
+harmony/entry/.hvigor/
+
+# Node / Server
+server/node_modules/
+server/dist/
+server/.env
+
+# iOS
+ios/build/
+ios/Pods/
+ios/DerivedData/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/

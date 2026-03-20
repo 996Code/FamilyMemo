@@ -1,0 +1,10 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "familymemo",
+  "version": "1.0.0",
+  "description": "家庭协作备忘录",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.18"
+  }
+}
